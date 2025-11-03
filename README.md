@@ -87,7 +87,7 @@ data_transformation_visualization/
 
 2. Abre el notebook en **Google Colab** o **Jupyter Notebook**.
 
-3. Si usas Colab, **sube los archivos CSV** (carpeta `data`) antes de ejecutar.
+3. Si usas Colab, **sube los archivos CSV** de la carpeta `/data` antes de ejecutar.
 
 4. Ejecuta las celdas del notebook en orden para reproducir el análisis y las visualizaciones.
 
@@ -111,5 +111,4 @@ Esto garantiza que el proyecto se mantenga accesible sin afectar el rendimiento 
 
 **Autor:** Julián Ritter Gama
 **Formación:** Bootcamp TripleTen — Data Analytics
-
----
+📬 **Contacto:** [LinkedIn](https://www.linkedin.com/in/juli%C3%A1n-ritter-gama/) | [jrittery@gmail.com](mailto:jrittery@gmail.com)
